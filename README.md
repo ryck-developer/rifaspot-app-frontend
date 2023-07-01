@@ -1,8 +1,6 @@
 # rifaspot-app-frontend
 
 
-![RifaSpot Logo](https://example.com/logo.png)
-
 Bem-vindo ao repositório do projeto RifaSpot.online! Aqui você encontrará informações sobre a plataforma de rifas online que desenvolvemos.
 
 ## Visão Geral
@@ -23,8 +21,8 @@ RifaSpot.online é uma plataforma digital que permite aos usuários criar, hospe
 
 ## Tecnologias Utilizadas
 
-- Frontend: HTML, CSS, JavaScript
-- Backend: Python, Flask
+- Frontend: HTML, CSS, JavaScript, Tailwind
+- Backend: Python, Django
 - Banco de Dados: MySQL
 
 ## Como Contribuir
@@ -48,8 +46,7 @@ Agradecemos antecipadamente por suas contribuições para o projeto!
 
 ## Contato
 
-Se você tiver alguma dúvida ou sugestão relacionada ao RifaSpot.online, entre em contato conosco pelo email: info@rifaspot.online.
+Se você tiver alguma dúvida ou sugestão relacionada ao RifaSpot.online, entre em contato conosco pelo email: oliveirachaves97@gmail.com.
 
 Fique à vontade para explorar nosso projeto e aproveitar a emoção das rifas online!
 
-*Este arquivo README.md é apenas um exemplo e deve ser personalizado de acordo com as necessidades do seu projeto.*
