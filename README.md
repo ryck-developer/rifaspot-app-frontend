@@ -41,8 +41,7 @@ Agradecemos antecipadamente por suas contribuições para o projeto!
 
 ## Equipe
 
-- Nome do Desenvolvedor 1 - Função
-- Nome do Desenvolvedor 2 - Função
+- Nome do Desenvolvedor - Luiz Henrique Chaves
 
 ## Contato
 
