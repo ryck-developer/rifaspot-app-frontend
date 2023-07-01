@@ -1,8 +1,7 @@
-# rifaspot-app-frontend
-![RifaSpot Logo](https://www.rifaspot.online/)
+# Bem-vindo ao repositório do projeto RifaSpot.online!
 
 
-Bem-vindo ao repositório do projeto RifaSpot.online! Aqui você encontrará informações sobre a plataforma de rifas online que desenvolvemos.
+ Aqui você encontrará informações sobre a plataforma de rifas online que desenvolvemos.
 
 ## Visão Geral
 
